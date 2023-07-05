@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/happy-smile-sushi/static/css/main.92a436c5.css",
+    "main.js": "/happy-smile-sushi/static/js/main.c1bf0988.js",
+    "static/media/sushibag.png": "/happy-smile-sushi/static/media/sushibag.013fce4e95285d390cf6.png",
+    "static/media/setsroll.svg": "/happy-smile-sushi/static/media/setsroll.bcb6cccacaf5ba243966a2b240274fdd.svg",
+    "static/media/burger.svg": "/happy-smile-sushi/static/media/burger.0b36c25a43f5c6cff701bbdaeb75258c.svg",
+    "static/media/pizza.svg": "/happy-smile-sushi/static/media/pizza.2e19ada784f2809c95ac277b14c2d722.svg",
+    "static/media/desert.svg": "/happy-smile-sushi/static/media/desert.b53375b947ed22a4091ac492999f4b58.svg",
+    "static/media/combo.svg": "/happy-smile-sushi/static/media/combo.4cd3312d67a911c54b3d9b76979dcba8.svg",
+    "static/media/shawarma.svg": "/happy-smile-sushi/static/media/shawarma.67d68c6a5fdb3d863dc793c3c7246c90.svg",
+    "static/media/wok.svg": "/happy-smile-sushi/static/media/wok.d4892cc0dff7ee63b89f3a396bd47ad9.svg",
+    "static/media/hotdog.svg": "/happy-smile-sushi/static/media/hotdog.b1d6574f8af92f13ccdccc169a1f7739.svg",
+    "static/media/rol.svg": "/happy-smile-sushi/static/media/rol.30b0d4438d29c4d73a09a45fdc94da18.svg",
+    "static/media/fries.svg": "/happy-smile-sushi/static/media/fries.0e1d11f0f0c63cd47512010137525e16.svg",
+    "static/media/soup.svg": "/happy-smile-sushi/static/media/soup.10bf68be91a5ab25e5789d944462037d.svg",
+    "static/media/salad.svg": "/happy-smile-sushi/static/media/salad.2d6824f15621a46973faf91c3bf0f4a7.svg",
+    "index.html": "/happy-smile-sushi/index.html",
+    "static/media/drink.svg": "/happy-smile-sushi/static/media/drink.338f3cec89aef9f03bd849650423389b.svg",
+    "main.92a436c5.css.map": "/happy-smile-sushi/static/css/main.92a436c5.css.map",
+    "main.c1bf0988.js.map": "/happy-smile-sushi/static/js/main.c1bf0988.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92a436c5.css",
+    "static/js/main.c1bf0988.js"
+  ]
+}
